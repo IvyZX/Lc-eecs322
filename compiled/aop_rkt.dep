@@ -1,0 +1,1 @@
+("6.1.1" ("41a10254613c47a32af18a87a5bf83707d8e65af" . "015d1d37fc9f8b8d3f2595abcf1454ceee20ab71") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

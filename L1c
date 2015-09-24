@@ -1,0 +1,10 @@
+#!/bin/sh
+
+export PATH=/Applications/Racket\ v6.1.1/bin:${PATH}
+
+racket $(dirname $0)/L1c.rkt "$@"
+
+as -o prog.o prog.s
+
+gcc -o a.out prog.o runtime.o
+

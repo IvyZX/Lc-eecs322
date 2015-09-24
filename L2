@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# pass --help on the commandline to get the flags
+
+export PATH=/Applications/Racket\ v6.1.1/bin:${PATH}
+exec racket $(dirname $0)/2-interp-main.rkt "$@"

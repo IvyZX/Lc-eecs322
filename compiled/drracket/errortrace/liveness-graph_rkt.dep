@@ -1,0 +1,1 @@
+("6.1.1" ("709bf17bb5c458592e35eb17f42e0727fd3882c3" . "c701e449d76fcee30758110350446f1f37ccf178") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"main.rkt") #"/home/ivy/Documents/homeworks/Lc/L2c-lib.rkt" (collects #"racket" #"match" #"parse.rkt") (collects #"racket" #"match" #"gen-match.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt"))

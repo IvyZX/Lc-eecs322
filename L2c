@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# pass --help on the commandline to get the flags
+
+export PATH=/Applications/Racket\ v6.1.1/bin:${PATH}
+
+racket $(dirname $0)/L2c.rkt "$@"
+
+
